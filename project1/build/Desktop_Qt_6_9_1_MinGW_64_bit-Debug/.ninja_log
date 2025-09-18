@@ -1,0 +1,13 @@
+# ninja log v6
+4	773	7798117734245727	project1_autogen/timestamp	2a317359b0f51a37
+4	773	7798117734245727	project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+4	773	7798117734245727	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+784	3888	7798117735175540	CMakeFiles/project1.dir/main.cpp.obj	a3b438a72b47bd18
+4	773	7798117734245727	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/timestamp	2a317359b0f51a37
+780	3823	7798117735140363	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	55f6e17d00f41392
+74	499	7799337958071731	project1_autogen/timestamp	2a317359b0f51a37
+74	499	7799337958071731	project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+74	499	7799337958071731	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/timestamp	2a317359b0f51a37
+74	499	7799337958071731	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+501	5760	7799337962441731	CMakeFiles/project1.dir/mainwindow.cpp.obj	6a6d97babb903c7d
+5760	7262	7799338015035324	project1.exe	b27bdaa06bbcd1e1

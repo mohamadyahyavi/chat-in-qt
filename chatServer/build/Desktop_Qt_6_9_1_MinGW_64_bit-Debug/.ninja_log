@@ -1,0 +1,28 @@
+# ninja log v6
+<<<<<<< HEAD
+39	5059	7798030451042523	CMakeFiles/chatServer.dir/main.cpp.obj	f2f619e958d11ab9
+38	2321	7798110625915674	build.ninja	6230249e4604e657
+8	3554	7798109712184990	CMakeFiles/chatServer.dir/clienthandler.cpp.obj	2dc27e3911d460a5
+25	803	7798110625915674	build.ninja	6230249e4604e657
+46	800	7798110635983861	chatServer_autogen/timestamp	d95fb16da9a4819b
+46	800	7798110635983861	chatServer_autogen/mocs_compilation.cpp	d95fb16da9a4819b
+46	800	7798110635983861	C:/Users/Mohammad/Documents/chatServer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/chatServer_autogen/timestamp	d95fb16da9a4819b
+46	800	7798110635983861	C:/Users/Mohammad/Documents/chatServer/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/chatServer_autogen/mocs_compilation.cpp	d95fb16da9a4819b
+803	4478	7798110636767029	CMakeFiles/chatServer.dir/chatServer_autogen/mocs_compilation.cpp.obj	1c4e1814c0cffac3
+813	4522	7798110636868892	CMakeFiles/chatServer.dir/clienthandler.cpp.obj	7095d6b4fe12598b
+807	4884	7798110636813792	CMakeFiles/chatServer.dir/main.cpp.obj	70e292806cd544f7
+4884	5121	7798110677577180	chatServer.exe	a6ecde65607cd6c2
+=======
+4	773	7798117734245727	project1_autogen/timestamp	2a317359b0f51a37
+4	773	7798117734245727	project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+4	773	7798117734245727	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+784	3888	7798117735175540	CMakeFiles/project1.dir/main.cpp.obj	a3b438a72b47bd18
+4	773	7798117734245727	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/timestamp	2a317359b0f51a37
+780	3823	7798117735140363	CMakeFiles/project1.dir/project1_autogen/mocs_compilation.cpp.obj	55f6e17d00f41392
+74	499	7799337958071731	project1_autogen/timestamp	2a317359b0f51a37
+74	499	7799337958071731	project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+74	499	7799337958071731	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/timestamp	2a317359b0f51a37
+74	499	7799337958071731	C:/Users/Mohammad/Documents/project1/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/project1_autogen/mocs_compilation.cpp	2a317359b0f51a37
+501	5760	7799337962441731	CMakeFiles/project1.dir/mainwindow.cpp.obj	6a6d97babb903c7d
+5760	7262	7799338015035324	project1.exe	b27bdaa06bbcd1e1
+>>>>>>> 44c820c0cd4829b4cbd1ca3039dab8643aa35f5f
